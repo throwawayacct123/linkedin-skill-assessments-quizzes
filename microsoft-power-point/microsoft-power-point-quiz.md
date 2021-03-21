@@ -319,3 +319,10 @@ Personal Hint: There are multiple file suffixes for templates (.potx, .potm, .po
 - [x] Rename the objects with meaningful names.
 - [ ] Drag and drop the objects.
 - [ ] Tab through the objects and note each object as it's highlighted.
+
+#### Q42. Your table uses three letter acronyms in the first column. The remaining columns of your table have quite a bit of text and you are concerned you won't be able to fit it all on the slide. How can you make the first column of your table as small as possible but still understandable to your audience.Your table uses three letter acronyms in the first column. The remaining columns of your table have quite a bit of text and you are concerned you won't be able to fit it all on the slide. How can you make the first column of your table as small as possible but still understandable to your audience. 
+
+ - [ ] Turn on Autofit in the first column and resize the column to be smaller.  
+ - [ ] Change the text direction in the first column to Stacked. 
+ - [ ] Rotate the text in the first column by 90 degrees.
+ - [ ] Transpose the rows and columns in the table.
